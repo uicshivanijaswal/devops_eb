@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["shivani-env.eba-paaackbx.eu-central-1.elasticbeanstalk.com"]
 
-
+print ("Hello World")
 # Application definition
 
 INSTALLED_APPS = [
