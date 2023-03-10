@@ -25,7 +25,7 @@ SECRET_KEY = 'sgd7s#^=9rfv1c+i#h_n8x4sbge4xn(h6*n(%njgdjz&a=z#36'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["shivani-env.eba-paaackbx.eu-central-1.elasticbeanstalk.com"]
 
 
 # Application definition
